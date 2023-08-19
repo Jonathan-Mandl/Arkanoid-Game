@@ -25,8 +25,8 @@ ant run
 
 Once you're immersed in the game environment, employ the following controls to master the challenges:
 
-- To move the paddle to the right, press the right arrow (->) key.
-- To shift the paddle to the left, press the left arrow (<-) key.
+- To move the paddle to the right, press the right arrow key.
+- To shift the paddle to the left, press the left arrow key.
 - Need a moment to strategize? Pause the game with the 'p' key.
 - When you're ready to resume, simply press the space key.
 
